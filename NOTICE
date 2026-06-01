@@ -1,0 +1,9 @@
+hostUpdater
+
+This independent Go implementation is inspired by:
+
+  UpdateHostsFile
+  https://github.com/eMVee-NL/UpdateHostsFile
+
+The upstream project is distributed under GPL-3.0. This port preserves that
+license family and documents its independent implementation.
