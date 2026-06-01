@@ -1,5 +1,7 @@
 # hostUpdater
 
+![hostUpdater scan example](assets/hostupdater-scan.png)
+
 Fast `/etc/hosts` synchronization for authorized lab networks using
 [NetExec](https://github.com/Pennyw0rth/NetExec).
 
